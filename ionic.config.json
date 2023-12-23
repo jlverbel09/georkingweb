@@ -1,0 +1,8 @@
+{
+  "name": "Georkingweb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "0b0a830a"
+}
